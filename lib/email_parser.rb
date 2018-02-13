@@ -6,4 +6,6 @@
 
 class EmailParser
   
+  def instantialize(emails)
+    emails.split("")
 end
